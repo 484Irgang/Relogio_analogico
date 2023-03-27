@@ -11,7 +11,6 @@
 			num.style.position = 'absolute';
 			deg += 30;
 			num.style.transform = 'rotate('+deg+'deg)';
-			console.log(deg);
 		}
 		
 		setInterval(function(){
